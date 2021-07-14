@@ -19,8 +19,8 @@ Versoning control system. Used to version our work and publish our code on githu
 To be able recognize who created commit
 
 ```
-$ git config --global user.name "Mona Lisa"
-$ git config --global user.email "Mona@Lisa.com"
+git config --global user.name "Mona Lisa"
+git config --global user.email "Mona@Lisa.com"
 ```
 
 ## Setup proxy
