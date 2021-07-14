@@ -68,3 +68,52 @@ We can use git graph to see what is our repository state
 
 2. Logint to yout account
 
+3. Got to repositroy Tab and creane new repository
+
+![new repository](./../img/10.png)
+
+4. Name you repository
+
+In my case `MyRepository`
+
+![create repositroy](./../img/11.png)
+
+8. Copy repository link
+
+![copy git link](./../img/12.png)
+
+9. Return back to VS
+
+10. Select `add remote`
+
+![add remote](./../img/13.png)
+
+11. Paste the github address to repository
+12. Name you repository
+
+![add repository](./../img/14.png)
+
+13. Push your repository
+
+![add repository](./../img/15.png)
+
+14. Fill user name and password to github
+15. Check push is done in git graph
+
+Now our project is also present on github
+
+## Adding readme
+
+The github can display readme.md file when resent. 
+
+1. Create readme.md file
+
+![create readme](./../img/16.png)
+
+2. Put your description
+3. Commit files
+4. Push files to github
+
+Readme is then visible directly on repository main page
+
+![readme](./../img/010.png)
