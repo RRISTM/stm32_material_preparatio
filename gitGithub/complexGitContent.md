@@ -18,21 +18,20 @@ Here we can put all our articles best is to create a folder for each article. As
 
 Where i have organization like this
 
-* doc
-  * gitGithub
-    * complexGitContent.md
-    * standaloneGitContent.md
-  * img
-  * introduction
-    * Content.md
-  * markdown
-    * markdown.md
-    * screentogit.md
-  * nextsteps
-    * planedUpdates.md
-  * prerequisities
-    * prerequisities.md
-  * webpage
+* gitGithub
+  * complexGitContent.md
+  * standaloneGitContent.md
+* img
+* introduction
+  * Content.md
+* markdown
+  * markdown.md
+  * screentogit.md
+* nextsteps
+  * planedUpdates.md
+* prerequisities
+  * prerequisities.md
+* webpage
 
 Purpose is to searate files for better organization
 

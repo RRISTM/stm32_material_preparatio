@@ -6,7 +6,27 @@
     "allowTagSelect": false
   },
   "filesToLoadArr": [
+    {
+      "name": "create web page",
+      "path": "/webPage",
+      "file": "useWebPageContent.md"
+    },
+    {
+      "name": "prerequisities",
+      "path": "/prerequisities",
+      "file": "prerequisities.md"
+    }
   ],
   "menuStructure": [
+    {
+      "name": "create web page",
+      "type": "file",
+      "file": "useWebPageContent.md"
+    },
+    {
+      "name": "prerequisities",
+      "type": "file",
+      "file": "prerequisities.md"
+    }
   ]
 }
