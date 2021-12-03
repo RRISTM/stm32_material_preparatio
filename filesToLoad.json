@@ -1,0 +1,12 @@
+{
+  "title": "STM32 material preparation",
+  "githubLoc": "https://raw.githubusercontent.com/RRISTM/stm32_material_preparation/master",
+  "options": {
+    "allowMenu": true,
+    "allowTagSelect": false
+  },
+  "filesToLoadArr": [
+  ],
+  "menuStructure": [
+  ]
+}
