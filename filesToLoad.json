@@ -8,7 +8,7 @@
   "filesToLoadArr": [
     {
       "name": "create web page",
-      "path": "/webPage",
+      "path": "/webpage",
       "file": "useWebPageContent.md"
     },
     {

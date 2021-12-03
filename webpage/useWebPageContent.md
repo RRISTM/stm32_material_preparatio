@@ -68,7 +68,7 @@ Like here:
   "filesToLoadArr": [
     {
       "name": "create web page",
-      "path": "/webPage",
+      "path": "/webpage",
       "file": "useWebPageContent.md"
     },
     {
@@ -132,4 +132,4 @@ When the filesToLoad is done. We can upload content to github. And then simply u
 In my case GITHUBACCOUNT is `RRISTM`
 And GITHUBREPOSITORY is `stm32_material_preparation`
 
-[https://rristm.github.io/tomas_materials_v2/RRISTM/stm32_material_preparation](stm32_material_preparation)
+[https://rristm.github.io/tomas_materials_v2/RRISTM/stm32_material_preparation]([stm32_material_preparation](https://rristm.github.io/tomas_materials_v2/RRISTM/stm32_material_preparation))
