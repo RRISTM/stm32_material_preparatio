@@ -87,12 +87,12 @@ Simple menu is
 ```json
  {
       "name": "create web page",
-      "type": "file",
+      "type": "File",
       "file": "useWebPageContent.md"
     },
     {
       "name": "prerequisities",
-      "type": "file",
+      "type": "File",
       "file": "prerequisities.md"
     }
 ```
