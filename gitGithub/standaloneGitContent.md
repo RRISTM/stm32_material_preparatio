@@ -12,17 +12,17 @@ For one project only. As CubeMX example.
 
 3. Go to git tab
 
-![git tab](./../img/04.png)
+![git tab](./img/04.png)
 
 4. Initialize git repository
 
-![git init](./../img/05.png)
+![git init](./img/05.png)
 
 Now the git is active in our folder, but we dont was himt to remember all files so we will use `.gitignore` file 
 
 5. Create `.gitignore` file
 
-![git ignore](./../img/06.png)
+![git ignore](./img/06.png)
 
 6. Ignore support project files
 
@@ -48,17 +48,17 @@ If not stagged file selected VS commit all changed files
 
    1. Stage one file
 
-![stage file](./../img/07.png)
+![stage file](./img/07.png)
 
 Commit all files
 
-![stage file](./../img/08.png)
+![stage file](./img/08.png)
 
 ## Check the commits
 
 We can use git graph to see what is our repository state
 
-![git graph](./../img/09.png)
+![git graph](./img/09.png)
 
 ## Create remote repository on github
 
@@ -70,32 +70,32 @@ We can use git graph to see what is our repository state
 
 3. Got to repositroy Tab and creane new repository
 
-![new repository](./../img/10.png)
+![new repository](./img/10.png)
 
 4. Name you repository
 
 In my case `MyRepository`
 
-![create repositroy](./../img/11.png)
+![create repositroy](./img/11.png)
 
 8. Copy repository link
 
-![copy git link](./../img/12.png)
+![copy git link](./img/12.png)
 
 9. Return back to VS
 
 10. Select `add remote`
 
-![add remote](./../img/13.png)
+![add remote](./img/13.png)
 
 11. Paste the github address to repository
 12. Name you repository
 
-![add repository](./../img/14.png)
+![add repository](./img/14.png)
 
 13. Push your repository
 
-![add repository](./../img/15.png)
+![add repository](./img/15.png)
 
 14. Fill user name and password to github
 15. Check push is done in git graph
@@ -108,7 +108,7 @@ The github can display readme.md file when resent.
 
 1. Create readme.md file
 
-![create readme](./../img/16.png)
+![create readme](./img/16.png)
 
 2. Put your description
 3. Commit files
@@ -116,4 +116,4 @@ The github can display readme.md file when resent.
 
 Readme is then visible directly on repository main page
 
-![readme](./../img/010.png)
+![readme](./img/010.png)

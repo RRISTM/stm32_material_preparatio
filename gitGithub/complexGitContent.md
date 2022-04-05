@@ -6,15 +6,15 @@ When will be needed more then one example in repository
 
 I propose to create one folder for all documents. Called `doc` and put inside all `md` files. And other folders to contain our examples.
 
-![organization](./../img/011.png)
+![organization](./img/011.png)
 
 ### doc folder
 
-![doc folder](./../img/012.png)
+![doc folder](./img/012.png)
 
 Here we can put all our articles best is to create a folder for each article. As example i can take this wary own content. 
 
-![vs doc](./../img/014.png)
+![vs doc](./img/014.png)
 
 Where i have organization like this
 
@@ -41,7 +41,7 @@ Second example can be in stm32_threadx repository [Link](https://github.com/RRIS
 
 Here i propose to put to root any number of folders contation the examples. Good is to split them by topics. 
 
-![folders](./../img/013.png)
+![folders](./img/013.png)
 
 as example we can take the 
 

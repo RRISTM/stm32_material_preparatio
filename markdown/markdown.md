@@ -89,9 +89,11 @@ _You **can** combine them_
 4. Images
 
 ```
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/img/logo.png)
 Format: ![Alt Text](url)
 ```
+
+Please you must create img folder in place where is relevant *.md file
 
 5. Links
    
@@ -133,6 +135,14 @@ Currently is supportedis `c` on request we can add more syntaxes.
 
 Languages must be suported by [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
 
+### Out modification
+
+If you dont want not to have **copy** button
+Use suffix `-nc` (not copy) together with language `c-nc`
+
+\```c-nc   
+
+\```
 
 ## How to write md
 
@@ -169,4 +179,60 @@ Horizontal line
 `---`
 
 ---
+
+
+
+# Additional updates
+
+You can wrap thext into colored box with 
+
+```md
+<awarning>
+Orange warning box
+</awarning>
+```
+
+It will looks like:
+
+<awarning>
+Orange warning box
+</awarning>
+
+```md
+<asuccess>
+Green success box
+</asuccess>
+```
+
+It will looks like:
+
+<asuccess>
+Green success box
+</asuccess>
+
+```md
+<ainfo>
+Blue info box
+</ainfo>
+```
+
+It will looks like:
+
+<ainfo>
+Blue info box
+</ainfo>
+
+```md
+<aerror>
+Red error box
+</aerror>
+```
+
+It will looks like:
+
+<aerror>
+Red error box
+</aerror>
+
+
 

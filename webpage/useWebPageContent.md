@@ -9,7 +9,7 @@ For this we need to have few things.
 Prepare your md files to correct git folder. 
 Like in this case. 
 
-![content](./../img/20.png)
+![content](./img/20.png)
 
 All md files are present also images. All content to show is in `master` branch.
 
