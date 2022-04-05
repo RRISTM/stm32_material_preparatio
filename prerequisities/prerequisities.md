@@ -63,19 +63,19 @@ We will use visual studio code. Very nice advanced editor with loat of extension
 1. Run VS
 2. Open extension tab
    
-![Git extentions](../img/02.png)   
+![Git extentions](./img/02.png)   
 
 3. Install GitGraph
 
 It will graphically show git tree structure
 
-![Git Graph](../img/001.png)
+![Git Graph](./img/001.png)
 
 4. Markdown All in One
 
 This extention can show markdown preview
 
-![Markdown all in one](../img/002.png)
+![Markdown all in one](./img/002.png)
 
 # Screen to gif
 
