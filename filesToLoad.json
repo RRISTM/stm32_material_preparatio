@@ -7,14 +7,28 @@
   },
   "filesToLoadArr": [
     {
-      "name": "create web page",
       "path": "/webpage",
       "file": "useWebPageContent.md"
     },
     {
-      "name": "prerequisities",
       "path": "/prerequisities",
       "file": "prerequisities.md"
+    },
+    {
+      "path": "/markdown",
+      "file": "markdown.md"
+    },
+    {
+      "path": "/markdown",
+      "file": "screentogit.md"
+    },
+    {
+      "path": "/webpage",
+      "file": "useWebPageContent.md"
+    },
+    {
+      "path": "/gitGithub",
+      "file": "standaloneGitContent.md"
     }
   ],
   "menuStructure": [
@@ -27,6 +41,25 @@
       "name": "prerequisities",
       "type": "File",
       "file": "prerequisities.md"
+    },
+    {
+      "name": "Markdown",
+      "type": "File",
+      "file": "markdown.md"
+    },
+    {
+      "name": "ScreenToGit",
+      "type": "File",
+      "file": "screentogit.md"
+    },
+    {
+      "name": "Use WebPage content",
+      "type": "File",
+      "file": "useWebPageContent.md"
+    },   {
+      "name": "Standalone git",
+      "type": "File",
+      "file": "standaloneGitContent.md"
     }
   ]
 }
